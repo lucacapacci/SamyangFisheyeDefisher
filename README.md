@@ -17,6 +17,6 @@ Usage instructions
 - Download and install Hugin 
 - Open the batch file you want to use with the notepad and in the second line after the words "set width=" replace the numbers with the width of your images, and in the third line after the words "set height=" replace the numbers with the height of your images 
 - Save the modified batch file and close the notepad 
-- Put the batch file in the same directory of your photos and just run it, it wil defish all the images inside the directory.
+- Put the batch file in the same directory of your photos and just run it, it wil defish all the images inside the directory
 
 

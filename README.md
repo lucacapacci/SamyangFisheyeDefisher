@@ -1,4 +1,4 @@
-SamyangFisheyeDefisher
+Samyang Fisheye Defisher
 ======================
 
 A defishing script for the Samyang/Falcon/Walimex (and other rebrands) to batch defish all the photos inside a folder. For windows with hugin installed.  

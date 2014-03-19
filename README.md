@@ -3,7 +3,7 @@ Samyang Fisheye Defisher
 
 A defishing script for the Samyang/Falcon/Walimex (and other rebrands) to batch defish all the photos inside a folder. For Windows with Hugin installed on it.  
 These scripts defish the photos using the panini method (straightens only the vertical lines) or the rectilinear method (straightens both vertical and horizontal lines).  
-The defishing algorithms are extracted from [Magic Lantern](http://www.magiclantern.fm/). So if you use Magic Lantern, the defished image you see in your camera is exactly the same image you will get with these scripts.
+The defishing algorithms are extracted from [Magic Lantern](http://www.magiclantern.fm/). So if you use Magic Lantern the defished image you see in your camera is exactly the same image you will get with these scripts.
 
 You can se these scripts in action [HERE](http://www.derelictplaces.co.uk/main/showthread.php?p=245125) (thanks to [Mars Lander](https://www.facebook.com/urbexart)).
 
